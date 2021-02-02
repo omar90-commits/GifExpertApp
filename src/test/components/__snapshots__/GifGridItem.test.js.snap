@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el <GifGridItem /> Debe de mostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Titulo de la App"
+    src="https://www.npmjs.com/package/enzyme-to-json"
+  />
+  <p>
+     
+    Titulo de la App
+     
+  </p>
+</div>
+`;
